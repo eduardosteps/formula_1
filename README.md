@@ -1,6 +1,6 @@
 # Formula 1 Results - Data Engineering Project
 
-This project was developed by Eduardo Passos using Microsoft Azure environment. The main technologies used were PySpark and Databricks to create the dataframes, workflows and data transformation."
+This project was developed by Eduardo Passos using Microsoft Azure environment. The main technologies used were PySpark and Databricks to create the dataframes, workflows and data transformation.
 
 ## Archtecture
 <img src="img/archtecture.png">
