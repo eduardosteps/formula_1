@@ -31,7 +31,7 @@ Here's how I created the Workflow to process all the files at once. This can be 
 DataViz table:
 <img src="img/dataviz_race_results.png">
 
-BBC Sport website at https://www.bbc.com/sport/formula1/2022/abu-dhabi-grand-prix/results:
+BBC Sport website at https://www.bbc.com/sport/formula1/2022/abu-dhabi-grand-prix/results
 <img src="img/bbc_sports_page.png">
 
 By following these steps, I was able to create a simple Data Engineering pipeline that transformed and analyzed historical Formula 1 data. This pipeline can be used to gain insights into the history of Formula 1 and to create predictive models to forecast future race outcomes.
