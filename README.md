@@ -27,7 +27,7 @@ Here's how I created the Workflow to process all the files at once. This can be 
 
 * **Analysis and Dashboards:** The final step of the project was to perform sample analysis and create the presentation table. This step involves creating the final table that will be used to perform visualizations and aggregate data to gain insights into historical Formula 1 statistics by the BI and Data Analysis Department.
 
-**Sample of the Results
+**Sample of the Results**
 DataViz table:
 <img src="img/dataviz_race_results.png">
 
